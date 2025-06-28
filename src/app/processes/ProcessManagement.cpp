@@ -2,7 +2,6 @@
 #include "ProcessManagement.hpp"
 #include <unistd.h>
 #include <cstring>
-#include <sys/wait.h>
 #include "../encryptDecrypt/Cryption.hpp"
 
 ProcessManagement::ProcessManagement() {}
